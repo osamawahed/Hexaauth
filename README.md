@@ -1,28 +1,31 @@
-🚀 HexaAuth – Free Advanced License Key System
-🔑 HexaAuth is a free and advanced licensing & authentication system, a full open-source alternative to KeyAuth.cc.
-Built for developers of cheat loaders, premium software, or any applications that require secure license validation.
-Our goal: High security + Easy integration + Developer-friendly dashboard — all for free! 💙
+🔐 HexaAuth – Advanced Licensing & Authentication System
+HexaAuth is a powerful and secure licensing management system designed for developers who need to protect and control access to their applications.
+Built with performance, security, and ease of use in mind, HexaAuth offers advanced features for license generation, validation, and monitoring.
 
-✨ Features
-🔒 Secure License API – Fast & secure license validation with HWID lock support.
+🚀 Features
+Full License Management – Create, edit, revoke, and track licenses with ease.
 
-⚡ Instant Webhook Logging – Real-time Discord notifications for license usage, API calls, and spam detection.
+HWID Locking – Bind licenses to specific hardware for extra security.
 
-⏳ License Expiration – Automatic license expiry with live countdown timers in the dashboard.
+Real-Time Validation – Fast and secure API for license checks.
 
-🛡 Anti-Spam & Abuse Protection – Built-in rate limiting, IP bans, and spam filters for maximum API security.
+Expiration & Renewal – Automatic expiration handling and optional renewal.
 
-💻 Multi-Language SDKs – Official SDKs & examples for C#, Python, Node.js, PHP, Java, and C++.
+IP & Country Logging – Track license usage locations for security and analytics.
 
-📜 Extensive Logging – Full audit logs for license usage, bans, and API events.
+Ban & Restrict – Instantly ban abusive keys or suspicious activity.
 
-🚫 IP & HWID Banning – Quickly block abusive users by IP or hardware ID.
+Discord Webhook Notifications – Get instant alerts for license usage and security events.
 
-🎨 Clean UI/UX – Sleek, modern dashboard with animated backgrounds for the best developer experience.
+Developer Dashboard – Manage applications and licenses with a modern UI.
 
-🆓 Completely Free – Open-source and easy to use for any project.
+📡 API Overview
+HexaAuth includes a high-performance PHP API that:
 
-📌 Why Choose HexaAuth?
-HexaAuth is not just another licensing system — it’s built by developers, for developers.
-You get enterprise-level features, instant logging, and secure authentication, without paying a single cent.
-Perfect for projects where security, speed, and ease of use are top priorities.
+Accepts POST requests with app_key, license_key, and hwid.
+
+Validates licenses in milliseconds.
+
+Returns full license details in JSON (status, remaining time, usage data, etc.).
+
+Logs every request in a secure database.
