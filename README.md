@@ -1,4 +1,5 @@
 🔐 HexaAuth – Advanced Licensing & Authentication System
+https://hexaauth.alwaysdata.net
 HexaAuth is a powerful and secure licensing management system designed for developers who need to protect and control access to their applications.
 Built with performance, security, and ease of use in mind, HexaAuth offers advanced features for license generation, validation, and monitoring.
 
