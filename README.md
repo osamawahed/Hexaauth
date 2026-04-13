@@ -1,32 +1,42 @@
-🔐 HexaAuth – Advanced Licensing & Authentication System
-https://hexaauth.alwaysdata.net
-HexaAuth is a powerful and secure licensing management system designed for developers who need to protect and control access to their applications.
-Built with performance, security, and ease of use in mind, HexaAuth offers advanced features for license generation, validation, and monitoring.
+🚀 **Free KeyAuth Alternative (C# Licensing API + HWID + Easy Integration)**
 
-🚀 Features
-Full License Management – Create, edit, revoke, and track licenses with ease.
+Hey everyone 👋
 
-HWID Locking – Bind licenses to specific hardware for extra security.
+I’ve been working on a project called **HexaAuth** — a simple and powerful licensing/authentication system for developers.
 
-Real-Time Validation – Fast and secure API for license checks.
+💡 The goal is to make protecting your application *fast and easy* without dealing with complex setups.
 
-Expiration & Renewal – Automatic expiration handling and optional renewal.
+---
 
-IP & Country Logging – Track license usage locations for security and analytics.
+### 🔐 Features:
 
-Ban & Restrict – Instantly ban abusive keys or suspicious activity.
+* HWID Lock 🔒
+* License Key System
+* Clean & Simple API
+* Fast Integration (C# Ready)
+* Secure Backend
 
-Discord Webhook Notifications – Get instant alerts for license usage and security events.
+---
 
-Developer Dashboard – Manage applications and licenses with a modern UI.
+### ⚡ Why use it?
 
-📡 API Overview
-HexaAuth includes a high-performance PHP API that:
+* No need to build your own auth system
+* No expensive services
+* Get started in minutes
 
-Accepts POST requests with app_key, license_key, and hwid.
+---
 
-Validates licenses in milliseconds.
+### 💻 Example:
 
-Returns full license details in JSON (status, remaining time, usage data, etc.).
+Just add your **App Secret + License Key** and you're ready to go.
 
-Logs every request in a secure database.
+---
+
+### 🌐 Website:
+
+https://hexaauth.alwaysdata.net/
+
+---
+
+I’m still actively improving it, so any feedback is welcome 🙏
+If you try it, let me know what you think or what features you'd like ❤️
